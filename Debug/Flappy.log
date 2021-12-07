@@ -1,0 +1,34 @@
+﻿生成启动时间为 2018/12/27 20:07:35。
+     1>项目“c:\Users\Leona\documents\visual studio 2010\Projects\Flappy\Flappy\Flappy.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Flappy.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Users\Leona\Desktop\编程%\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Santa.cpp
+         Santa.cpp
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(48): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\users\leona\desktop\编程%\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(192): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(208): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 c:\users\leona\desktop\编程%\vc\include\conio.h(130) : 参见“kbhit”的声明
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(210): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\users\leona\desktop\编程%\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(217): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\users\leona\desktop\编程%\vc\include\conio.h(128) : 参见“getch”的声明
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(206): warning C4101: “n”: 未引用的局部变量
+     1>c:\users\leona\documents\visual studio 2010\projects\flappy\flappy\santa.cpp(291): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\users\leona\desktop\编程%\vc\include\conio.h(128) : 参见“getch”的声明
+       Link:
+         c:\Users\Leona\Desktop\编程%\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\Flappy.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Flappy.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\Flappy.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\Flappy.lib" /MACHINE:X86 Debug\Santa.obj
+         Flappy.vcxproj -> c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\Flappy.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\leona\documents\visual studio 2010\Projects\Flappy\Debug\Flappy.exe;#1" /manifest Debug\Flappy.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Flappy.unsuccessfulbuild”。
+         正在对“Debug\Flappy.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“c:\Users\Leona\documents\visual studio 2010\Projects\Flappy\Flappy\Flappy.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.46
